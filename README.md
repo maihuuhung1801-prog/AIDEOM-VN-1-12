@@ -127,7 +127,7 @@ AIDEOM-VN/
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-repo/aideom-vn
+git clone(https://github.com/maihuuhung1801-prog/AIDEOM-VN-1-12.git)
 cd aideom-vn
 pip install -r requirements.txt
 streamlit run app.py
