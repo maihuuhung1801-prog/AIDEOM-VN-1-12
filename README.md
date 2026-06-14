@@ -159,7 +159,7 @@ AI tools were used to assist in coding, modeling, and documentation.
  Add scenario generator UI
  Add export PDF policy reports
 👨‍💻 Author
-
-AIDEOM-VN Research Team
+Mai Huu Hung
+AIDEOM-VN Research
 
 Decision Intelligence for Vietnam’s digital economy transformation.
