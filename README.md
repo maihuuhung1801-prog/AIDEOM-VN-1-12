@@ -1,5 +1,8 @@
 # AIDEOM-VN-1-12
-# 🇻🇳 AIDEOM-VN — Decision Intelligence Platform for Vietnam Economic Modeling
+# AIDEOM-VN — Mô hình Ra Quyết định Phát triển Kinh tế Việt Nam trong Kỉ nguyên AI
+*Bộ bài tập thực hành** | Môn: Các Mô hình Ra Quyết định  
+> Trường Đại học Kinh tế — Viện Quản trị Kinh doanh  
+> Dữ liệu thực tế Việt Nam 2020–2025
 
 > **AI-powered Decision Support System | Operations Research + Stochastic Optimization + Policy Analytics**
 
@@ -100,25 +103,27 @@ The system combines:
 - PyTorch (Reinforcement Learning - Bài 11)
 
 ---
-
 ## 📂 Project Structure
+
+```bash
 AIDEOM-VN/
-├── app.py # Streamlit dashboard
-├── modules/
-│ ├── bai01.py
-│ ├── ...
-│ ├── bai10.py # Stochastic Programming
-│ └── bai11.py # Reinforcement Learning
+│── app.py
+│── modules/
+│   ├── bai01.py
+│   ├── bai02.py
+│   ├── bai10.py
+│   └── bai11.py
 │
-├── dashboard/
-│ └── m6_dashboard.py
+│── dashboard/
+│   └── m6_dashboard.py
 │
-├── data/
-│ ├── vietnam_macro_2020_2025.csv
-│ ├── vietnam_regions_2024.csv
-│ └── vietnam_sectors_2024.csv
+│── data/
+│   ├── vietnam_macro_2020_2025.csv
+│   ├── vietnam_regions_2024.csv
+│   └── vietnam_sectors_2024.csv
 │
 └── README.md
+```
 ## ▶️ How to Run
 
 ```bash
